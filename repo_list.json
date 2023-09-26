@@ -1,36 +1,29 @@
 {
-	"repo_list": [{
-			"name": "NOOBS",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
-		},
-		{
-			"name": "Raspios",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
-		},
-		{
-			"name": "PINN",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
-		},
-		{
-			"name": "Testing",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
-		},
-		{
-			"name": "Matt Huisman",
-			"url": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
-		},
-		{
-			"name": "Sakaki",
-			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
-		},
-		{
-			"name": "Recalbox",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
-		},
-		{
-			"name": "Retropie48",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
-		}
+  "os_list": [
+        {
+            "os_name":	    "raspios_arm64",
+            "description":  "A 64-bit port of Debian with RPi desktop and recommended applications",
+            "release_date": "2023-05-03",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   855231792,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/raspios_arm64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/root64.tar.xz"
+            ],
+            "nominal_size": 4072
+        }
+
 
 	]
 }
