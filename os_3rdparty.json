@@ -9,8 +9,8 @@
             "nominal_size": 2966,
             "os_info": "https://disk.yandex.ru/d/x0Y41YPbXWwALw",
             "os_name": "Screenly OSE",
-            "partition_setup": "https://releases.screenlyapp.com/NOOBS/partition_setup.sh",
-            "partitions_info": "https://releases.screenlyapp.com/NOOBS/partitions.json",
+            "partition_setup": "https://disk.yandex.ru/d/mKqDPbh-qERR2A",
+            "partitions_info": "https://disk.yandex.ru/d/ZoUQLWRc3MPFjQ",
             "release_date": "2019-09-25",
             "supported_models": [
                 "Pi Model",
@@ -22,67 +22,11 @@
             "supports_backup": "update",
             "tarballs": [
                 "https://disk.yandex.ru/d/VGKedidg0a_x8Q",
-                "https://releases.screenlyapp.com/NOOBS/root.tar.xz"
+                "https://disk.yandex.ru/d/mwj_QKx7Pbsz-w"
             ],
             "url": "http://www.screenly.io/ose/",
             "version": "stretch"
-        },
-        {
-            "description": "RISC OS is a very fast and compact system",
-            "feature_level": 35120124,
-            "icon": "http://packages.riscosopen.org/noobs/RISC_OS.png",
-            "marketing_info": "http://packages.riscosopen.org/noobs/marketing.tar",
-            "nominal_size": 1957,
-            "os_info": "http://packages.riscosopen.org/noobs/os.json",
-            "os_name": "RISC OS",
-            "partitions_info": "http://packages.riscosopen.org/noobs/partitions.json",
-            "release_date": "2020-12-24",
-            "riscos_offset": 1760,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041",
-            "supported_models": [
-                "Pi Model",
-                "Pi 2",
-                "Pi Zero",
-                "Pi 3",
-                "Pi Compute Module",
-                "Pi 4"
-            ],
-            "tarballs": [
-                "http://packages.riscosopen.org/noobs/RISC_OS_Boot.tar.xz",
-                "http://packages.riscosopen.org/noobs/RISC_OS.xz"
-            ],
-            "version": "5.28"
-        },
-        {
-            "description": "ThinLinX's Debian-based thin client for Raspberry Pi (v2 and later), Version 4.11.1",
-            "group": "General",
-            "icon": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/TLXOS.png",
-            "marketing_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/marketing.tar",
-            "nominal_size": 2064,
-            "os_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/os.json",
-            "os_name": "TLXOS",
-            "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/partition_setup.sh",
-            "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/partitions.json",
-            "release_date": "2023-02-01",
-            "supports_usb_boot": true,
-            "supports_backup": false,
-            "supported_models": [
-                "Pi 2",
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi Zero 2",
-                "Pi 4",
-                "Pi Compute Module 4"
-            ],
-            "tarballs": [
-                "http://rpi.thinlinx.com/NOOBS/TLX_RPi/boot.xz",
-                "http://rpi.thinlinx.com/NOOBS/TLX_RPi/tfm.xz",
-                "http://rpi.thinlinx.com/NOOBS/TLX_RPi/root.xz"
-            ],
-            "url": "https://thinlinx.com/",
-            "version": "4.11.1"
-        },
-     
+        }
    
     ]
 }
