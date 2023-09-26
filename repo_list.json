@@ -1,7 +1,7 @@
 {
 	"repo_list": [{
 			"name": "NOOBS",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
+			"url": "https://raw.githubusercontent.com/hamedebrahim90/osNLScon-RSB/main/os_3rdparty.json"
 		},
 		{
 			"name": "Raspios",
