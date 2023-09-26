@@ -22,5 +22,123 @@
             ],
             "nominal_size": 4072
         }
+        ,
+        {
+            "os_name":	    "NLcon-RSB-5",
+            "description":  "ОС для ПЛК серии NLcon-RSB",
+            "release_date": "2023-09-26",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.reallab.ru/",
+            "group":           "General",
+            "download_size":   2960,
+            "os_info":         "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/os.json",
+            "partitions_info": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partitions.json",
+            "icon":            "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/Raspbian.png",
+            "marketing_info":  "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/marketing.tar",
+            "partition_setup": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partition_setup.sh",
+            "tarballs": [
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/boot.tar.xz",
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/root.tar.xz"
+            ],
+            "nominal_size": 4072
+        }
+        ,
+                {
+            "os_name":	    "NLcon-RSB-7",
+            "description":  "ОС для ПЛК серии NLcon-RSB",
+            "release_date": "2023-09-26",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.reallab.ru/",
+            "group":           "General",
+            "download_size":   2960,
+            "os_info":         "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/os.json",
+            "partitions_info": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partitions.json",
+            "icon":            "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/Raspbian.png",
+            "marketing_info":  "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/marketing.tar",
+            "partition_setup": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partition_setup.sh",
+            "tarballs": [
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/boot.tar.xz",
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/root.tar.xz"
+            ],
+            "nominal_size": 4072
+        }, 
+        {
+            "os_name":	    "NLcon-RSB-12",
+            "description":  "ОС для ПЛК серии NLcon-RSB",
+            "release_date": "2023-09-26",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.reallab.ru/",
+            "group":           "General",
+            "download_size":   2960,
+            "os_info":         "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/os.json",
+            "partitions_info": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partitions.json",
+            "icon":            "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/Raspbian.png",
+            "marketing_info":  "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/marketing.tar",
+            "partition_setup": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partition_setup.sh",
+            "tarballs": [
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/boot.tar.xz",
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/root.tar.xz"
+            ],
+            "nominal_size": 4072
+        }
+        ,
+        {
+            "os_name":	    "NLcon-RSB-15",
+            "description":  "ОС для ПЛК серии NLcon-RSB",
+            "release_date": "2023-09-26",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.reallab.ru/",
+            "group":           "General",
+            "download_size":   2960,
+            "os_info":         "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/os.json",
+            "partitions_info": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partitions.json",
+            "icon":            "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/Raspbian.png",
+            "marketing_info":  "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/marketing.tar",
+            "partition_setup": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partition_setup.sh",
+            "tarballs": [
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/boot.tar.xz",
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/root.tar.xz"
+            ],
+            "nominal_size": 4072
+        },
+        {
+            "os_name":	    "NLcon-RSB(16-21)",
+            "description":  "ОС для ПЛК серии NLcon-RSB",
+            "release_date": "2023-09-26",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.reallab.ru/",
+            "group":           "General",
+            "download_size":   2960,
+            "os_info":         "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/os.json",
+            "partitions_info": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partitions.json",
+            "icon":            "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/Raspbian.png",
+            "marketing_info":  "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/marketing.tar",
+            "partition_setup": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/partition_setup.sh",
+            "tarballs": [
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/boot.tar.xz",
+                               "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/tly0CVewNv2Q7w/root.tar.xz"
+            ],
+            "nominal_size": 4072
+        }
  ]
 }
