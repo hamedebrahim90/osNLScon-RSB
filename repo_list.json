@@ -1,30 +1,36 @@
 {
-    "os_list": [
-        {
-            "description": "A port of Debian with the Raspberry Pi Desktop",
-            "download_size": 801462256,
-            "group": "General",
-            "icon": "http://downloads.raspberrypi.org/raspios_arm64/Raspberry_Pi_OS_(64-bit).png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspios_arm64/marketing.tar",
-            "nominal_size": 4161,
-            "os_info": "http://downloads.raspberrypi.org/raspios_arm64/os.json",
-            "os_name": "Raspberry Pi OS (64-bit)",
-            "partition_setup": "http://downloads.raspberrypi.org/raspios_arm64/partition_setup.sh",
-            "partitions_info": "http://downloads.raspberrypi.org/raspios_arm64/partitions.json",
-            "release_date": "2022-04-04",
-            "supported_models": [
-                "Pi Zero 2",
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi Compute Module 4",
-                "Pi 4"
-            ],
-            "supports_backup": true,
-            "tarballs": [
-                "http://downloads.raspberrypi.org/raspios_arm64/boot.tar.xz",
-                "http://downloads.raspberrypi.org/raspios_arm64/root.tar.xz"
-            ],
-            "version": "bullseye"
-        },
-    ]
+	"repo_list": [{
+			"name": "NOOBS",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
+		},
+		{
+			"name": "Raspios",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
+		},
+		{
+			"name": "PINN",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
+		},
+		{
+			"name": "Testing",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
+		},
+		{
+			"name": "Matt Huisman",
+			"url": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
+		},
+		{
+			"name": "Sakaki",
+			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
+		},
+		{
+			"name": "Recalbox",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
+		},
+		{
+			"name": "Retropie48",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
+		}
+
+	]
 }
