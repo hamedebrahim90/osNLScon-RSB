@@ -4,13 +4,13 @@
         {
             "description": "NLScon-RSB",
             "group": "General",
-            "icon": "https://disk.yandex.ru/i/lvuE0jtFipxyqw",
-            "marketing_info": "https://disk.yandex.ru/d/n69igInyk1MYzQ",
+            "icon": "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/lvuE0jtFipxyqw",
+            "marketing_info": "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/n69igInyk1MYzQ",
             "nominal_size": 2966,
-            "os_info": "https://disk.yandex.ru/d/x0Y41YPbXWwALw",
+            "os_info": "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/x0Y41YPbXWwALw",
             "os_name": "RealLab OS",
-            "partition_setup": "https://disk.yandex.ru/d/mKqDPbh-qERR2A",
-            "partitions_info": "https://disk.yandex.ru/d/ZoUQLWRc3MPFjQ",
+            "partition_setup": "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/mKqDPbh-qERR2A",
+            "partitions_info": "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/ZoUQLWRc3MPFjQ",
             "release_date": "2019-09-25",
             "supported_models": [
                 "Pi Model",
@@ -21,8 +21,8 @@
             ],
             "supports_backup": "update",
             "tarballs": [
-                "https://disk.yandex.ru/d/VGKedidg0a_x8Q",
-                "https://disk.yandex.ru/d/mwj_QKx7Pbsz-w"
+                "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/VGKedidg0a_x8Q",
+                "http://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/mwj_QKx7Pbsz-w"
             ],
             "url": "http://www.screenly.io/ose/",
             "version": "stretch"
